@@ -1,9 +1,12 @@
 #include <stdio.h>
 /**
- * main - a C program that prints using puts
- * retun: 0 (completed)
- * description: successful
-  */
+ * main - the start of my C program
+ *
+ * description: a program to print out words
+ *
+ * Return: Always 0 (successful)
+ */
+
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
