@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Program to print alphabets
+ * print_alphabet - Program to print alphabets
  *
  * Description: this is a program that prints lower case alphabets with putchar
  *
