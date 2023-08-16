@@ -17,7 +17,7 @@ void print_alphabet_x10(void)
 		while (b <= 122)
 		{
 			_putchar(a);
-			a++
+			a++;
 		}
 
 		_putchar('\n');
