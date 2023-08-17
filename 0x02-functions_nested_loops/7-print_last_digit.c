@@ -7,13 +7,13 @@
  *
  * Return: last digit
  */
-int print_last_digit(int)
+int print_last_digit(int r)
 {
-	int a;
+	int i;
 
 	if (r < 0)
 	{
-		i = -1 * (r % 10)
+		i = -1 * (r % 10);
 	}
 	else
 	{
